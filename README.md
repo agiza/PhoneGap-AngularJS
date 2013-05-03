@@ -1,6 +1,8 @@
 PhoneGap-AngularJS Template
 ===========================
 
+Built it with PhoneGap
+
 Included:
 ---------
 
