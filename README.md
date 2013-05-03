@@ -8,4 +8,5 @@ Included:
 * Go Back button directive
 * autoHeight directive: set the height for the element automatically
 * off the screen menu
+* twitter bootstrap / font-awesome
 
