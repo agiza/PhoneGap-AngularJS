@@ -9,4 +9,6 @@ Included:
 * autoHeight directive: set the height for the element automatically
 * off the screen menu
 * twitter bootstrap / font-awesome
+* disabled UIWebView bounce
+* fixed scaling issue when screen rotated landscape
 
